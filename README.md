@@ -52,4 +52,5 @@ The project includes an **interactive Excel dashboard** with KPIs, slicers, and 
 
 ---
 
-## 📂 Repository Structure  
+## Dashboard Preview
+![Dashboard Preview](Dashboard.png)
